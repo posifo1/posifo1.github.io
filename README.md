@@ -2,16 +2,11 @@
 
 ### Introduction
 
-My journey in cyber security has made me pursue a Master in Cyber Security
+My journey in cyber security has made me pursue a Master's in Cyber Security.
 
-### Installation
+### My Profile
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://linkedin.com/in/posifo"</a>
 
 ### Markdown
 
