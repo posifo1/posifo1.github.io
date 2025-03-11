@@ -1,9 +1,6 @@
-## E-Portfolio of   
-
 # Peter Osifo, CREST CRT, OSCP       
 
 ## MSc. Cybersecurity Student 2024
-
 ---
 
 ### About Me
