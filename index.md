@@ -14,8 +14,8 @@
 
 *   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
 *   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Module 2 Title](http://example.com/)
-*   [Module 3 Title](http://example.com/)
+*   [Module 2 Network Security January 2025
+*   [Module 3 Human Factors and Cyber Security
 *   [Module 4 Title](http://example.com/)
 *   [Module 5 Title](http://example.com/)
 
