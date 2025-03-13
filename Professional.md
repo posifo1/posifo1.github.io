@@ -1,8 +1,8 @@
 # Professional Bio
 
-### Current Firm/Role
+### Current Role
 
-Associate Vice President / Connected Vehicle Program Manager and National Practice Leader, Cybersecurity
+Penetration Tester
 
 Providing technical expertise ion program management of Federal research and pilot deployments of connected vehicle technology. Lead author of winning grant application which procured $21 million in funding to design, deploy, test and operate a connected vehicle pilot in Tampa, FL. This project comprises equipping 48 signalized intersections, 1000 privately owned vehicles, 10 transit buses and 9 electric street car trollies with dedicated short range communications (DSRC) in the licensed 5.9 GHz spectrum, to enable vehicle to vehicle (V2V), vehicle to infrastructure (V2I), and vehicle to everything else (V2X) applications. These applications fall in categories of safety, mobility and environmental. Quick examples are:
 
