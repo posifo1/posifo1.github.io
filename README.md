@@ -2,7 +2,7 @@
 
 This e-portfolio contains the outcomes from my learning journey throughout my MSc in CyberSecurity at the University of Essex (UK).
  
-Please view [my e-portfolio](https://posifo1.github.io/e_portfolio/)
+Please view [my e-portfolio](https://posifo1.github.io/)
 
 
 ## Module 1: Launching into Launching into Cyber Security
