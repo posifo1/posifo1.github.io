@@ -4,7 +4,6 @@ This e-portfolio contains the outcomes from my learning journey throughout my MS
  
 Please view [my e-portfolio](https://posifo1.github.io/)
 
-
 ## Module 1: Launching into Launching into Cyber Security
 ### Units of Module 1
 * Unit 1: Introduction to Cyber Security
@@ -37,11 +36,16 @@ Please view [my e-portfolio](https://posifo1.github.io/)
 * Unit 4: Usable Security Design by Default
 * Unit 5: Achieving Optimal Cyber Security: The Ethics and Organisational Issues
 * Unit 6: Behaviour Analysis for Positive Security and Risk Communication
-
 ## Module 4: Secure Software Development
+### Units of Module 4
+* Unit 1: Introduction to Secure Software Development
+* Unit 2: UML Modelling to Support Secure System Planning
+* Unit 3: Introduction to Programming Languages
+* Unit 4: Introduction to Testing
+* Unit 5: Future Trends in Secure Software Development
+* Unit 6: The Security of Programming Languages Debate
 
-
-## Module 5: Software Engineering Project Management
+## Module 5: Security and Risk Management
 
 
 ## Module 6: Research Methods and Professional Practice
