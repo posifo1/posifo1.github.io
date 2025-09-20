@@ -46,7 +46,19 @@ Please view [my e-portfolio](https://posifo1.github.io/)
 * Unit 6: The Security of Programming Languages Debate
 
 ## Module 5: Security and Risk Management
-
+### Units of Module 4
+* Unit 1: An Introduction to Security and Risk Management
+* Unit 2: Users, Assessments and the Risk Management Process
+* Unit 3: Introduction to Threat Modelling and Management
+* Unit 4: Application of Threat Modelling and Management Techniques
+* Unit 5: An Introduction to Security and Risk Standards in Industry and the Enterprise
+* Unit 6: The Practical Implications of Security and Risk Standards
+* Unit 7: An Introduction to the Concepts of Quantitative Risk Modelling
+* Unit 8: Implementing Quantitative Risk Models.
+* Unit 9: Risk, Business Continuity and Disaster Recovery
+* Unit 10: Practical Applications and Issues in DR Implementations
+* Unit 11: Future Trends in Security and Risk Management
+* Unit 12: The Great Debate: What will be the most influential trend in SRM in the next 5 years?
 
 ## Module 6: Research Methods and Professional Practice
 
