@@ -227,7 +227,7 @@ A Look into the Future of Cyber Security
 
 ---
 
-# Network Security e-Portfolio
+# Network Security
 
 This e-portfolio documents my learning journey in **Network Security**.  
 Each unit includes the module title, learning outcomes, and activities/assignments.  
@@ -340,7 +340,7 @@ The Future of the Internet and Generative AI
 - Predict challenges and opportunities AI introduces to defenders and attackers.  
 
 ### Activities/Assignments
-- **Research Task:** Explore how generative AI may be weaponized for cyber attacks.  
+- **Research Task:** Explore how generative AI may be weaponised for cyber attacks.  
 - **Assignment:** Write an essay on the dual-use dilemma of AI in cyber defence and offence.  
 - **Reflection:** Discuss how network security professionals should adapt to AI-driven change.  
 
