@@ -167,7 +167,7 @@ Object-Oriented Programming Application
 ### Learning Outcomes
 - Understand core OOP concepts: classes, objects, inheritance, encapsulation, polymorphism.  
 - Apply OOP principles to build secure applications.  
-- Recognize common security pitfalls in OOP design.  
+- Recognise common security pitfalls in OOP design.  
 
 ### Activities/Assignments
 - **Exercise:** Write a simple Python class to represent a secure user object.  
@@ -224,6 +224,125 @@ A Look into the Future of Cyber Security
 - **Research Task:** Investigate one emerging cyber threat (e.g., quantum computing, AI-driven attacks).  
 - **Assignment:** Write an essay predicting the most disruptive future technology in cyber security.  
 - **Reflection:** Discuss how security professionals should prepare for future challenges.  
+
+---
+
+# Network Security e-Portfolio
+
+This e-portfolio documents my learning journey in **Network Security**.  
+Each unit includes the module title, learning outcomes, and activities/assignments.  
+
+---
+
+## Contents
+1. [Unit 1: History of Network Security, Vulnerabilities and Approaches](#unit-1-history-of-network-security-vulnerabilities-and-approaches)  
+2. [Unit 2: Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study](#unit-2-advanced-persistent-threats-applying-the-cyber-kill-chain-model-to-a-case-study)  
+3. [Unit 3: Vulnerability Assessments](#unit-3-vulnerability-assessments)  
+4. [Unit 4: Breach Analysis and Mitigation](#unit-4-breach-analysis-and-mitigation)  
+5. [Unit 5: Logging, Forensics and Future Trends](#unit-5-logging-forensics-and-future-trends)  
+6. [Unit 6: The Future of the Internet and Generative AI](#unit-6-the-future-of-the-internet-and-generative-ai)  
+
+---
+
+## Unit 1: History of Network Security, Vulnerabilities and Approaches
+
+### Module Title
+History of Network Security, Vulnerabilities and Approaches
+
+### Learning Outcomes
+- Understand the historical evolution of network security.  
+- Identify common network vulnerabilities and attack vectors.  
+- Evaluate traditional and modern approaches to securing networks.  
+
+### Activities/Assignments
+- **Research Task:** Create a timeline of key events in network security history.  
+- **Reflection:** Discuss how past vulnerabilities shaped today’s security practices.  
+- **Assignment:** Write a short paper comparing perimeter-based security vs. zero-trust approaches.  
+
+---
+
+## Unit 2: Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study
+
+### Module Title
+Advanced Persistent Threats (APTs) and the Cyber Kill Chain
+
+### Learning Outcomes
+- Understand the concept of Advanced Persistent Threats (APTs).  
+- Apply the Cyber Kill Chain model to analyse attack stages.  
+- Evaluate mitigation techniques for different phases of the kill chain.  
+
+### Activities/Assignments
+- **Case Study:** Apply the Cyber Kill Chain model to analyse a real-world APT attack.  
+- **Exercise:** Map defensive measures to each stage of the kill chain.  
+- **Reflection:** Discuss the limitations of the Cyber Kill Chain in today’s threat landscape.  
+
+---
+
+## Unit 3: Vulnerability Assessments
+
+### Module Title
+Vulnerability Assessments
+
+### Learning Outcomes
+- Understand the process of vulnerability scanning and assessment.  
+- Differentiate between automated tools and manual assessments.  
+- Evaluate risk levels based on vulnerability findings.  
+
+### Activities/Assignments
+- **Exercise:** Perform a sample vulnerability scan using an open-source tool (e.g., OpenVAS, Nessus).  
+- **Assignment:** Write a vulnerability assessment report with remediation recommendations.  
+- **Reflection:** Discuss challenges in prioritising vulnerabilities for patching.  
+
+---
+
+## Unit 4: Breach Analysis and Mitigation
+
+### Module Title
+Breach Analysis and Mitigation
+
+### Learning Outcomes
+- Analyze the lifecycle of a network breach.  
+- Identify techniques for detecting and mitigating breaches.  
+- Evaluate post-breach response strategies.  
+
+### Activities/Assignments
+- **Case Study:** Investigate a well-known breach (e.g., Target, Equifax).  
+- **Exercise:** Draft an incident response plan for a simulated breach.  
+- **Reflection:** Reflect on how timely detection impacts breach outcomes.  
+
+---
+
+## Unit 5: Logging, Forensics and Future Trends
+
+### Module Title
+Logging, Forensics and Future Trends
+
+### Learning Outcomes
+- Understand the role of logging in network security monitoring.  
+- Apply basic forensic techniques to investigate security incidents.  
+- Explore future trends in logging, forensics, and monitoring technologies.  
+
+### Activities/Assignments
+- **Exercise:** Analyze log files to identify suspicious activity.  
+- **Assignment:** Write a short report on digital forensics tools and techniques.  
+- **Reflection:** Discuss the role of AI and automation in modern forensics.  
+
+---
+
+## Unit 6: The Future of the Internet and Generative AI
+
+### Module Title
+The Future of the Internet and Generative AI
+
+### Learning Outcomes
+- Evaluate emerging technologies shaping the future of the internet.  
+- Understand the implications of generative AI for network security.  
+- Predict challenges and opportunities AI introduces to defenders and attackers.  
+
+### Activities/Assignments
+- **Research Task:** Explore how generative AI may be weaponized for cyber attacks.  
+- **Assignment:** Write an essay on the dual-use dilemma of AI in cyber defence and offence.  
+- **Reflection:** Discuss how network security professionals should adapt to AI-driven change.  
 
 ---
 
