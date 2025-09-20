@@ -6,9 +6,6 @@ Please view [my e-portfolio](https://posifo1.github.io/)
 
 # Launching into Cyber Security e-Portfolio
 
-This e-portfolio documents my learning journey in **Cyber Security**.  
-Each unit includes the module title, learning outcomes, and activities/assignments.  
-
 ---
 
 ## Contents
