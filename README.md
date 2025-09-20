@@ -346,6 +346,125 @@ The Future of the Internet and Generative AI
 
 ---
 
+# The Human Factor
+
+This e-portfolio documents my learning journey in **The Human Factor in Cyber Security**.  
+Each unit includes the module title, learning outcomes, and activities/assignments.  
+
+---
+
+## Contents
+1. [Unit 1: Human Factors and Cyber Security](#unit-1-human-factors-and-cyber-security)  
+2. [Unit 2: Human Behaviour and Security Implications](#unit-2-human-behaviour-and-security-implications)  
+3. [Unit 3: Mental Models and Privacy by Design and by Default Principles for Usable Security Design](#unit-3-mental-models-and-privacy-by-design-and-by-default-principles-for-usable-security-design)  
+4. [Unit 4: Usable Security Design by Default](#unit-4-usable-security-design-by-default)  
+5. [Unit 5: Achieving Optimal Cyber Security: The Ethics and Organisational Issues](#unit-5-achieving-optimal-cyber-security-the-ethics-and-organisational-issues)  
+6. [Unit 6: Behaviour Analysis for Positive Security and Risk Communication](#unit-6-behaviour-analysis-for-positive-security-and-risk-communication)  
+
+---
+
+## Unit 1: Human Factors and Cyber Security
+
+### Module Title
+Human Factors and Cyber Security
+
+### Learning Outcomes
+- Understand the role of human factors in cyber security.  
+- Recognise how human error contributes to security incidents.  
+- Evaluate strategies for mitigating human-related risks.  
+
+### Activities/Assignments
+- **Reflection:** Discuss a cyber incident caused by human error and lessons learned.  
+- **Assignment:** Write a short report on the importance of human factors in cyber defence.  
+- **Exercise:** Identify common “human weak points” in organisational security.  
+
+---
+
+## Unit 2: Human Behaviour and Security Implications
+
+### Module Title
+Human Behaviour and Security Implications
+
+### Learning Outcomes
+- Analyse common behavioural patterns that lead to security breaches.  
+- Understand insider threats and social engineering tactics.  
+- Propose behaviour-based interventions to improve security.  
+
+### Activities/Assignments
+- **Case Study:** Examine a phishing attack and identify exploited behaviours.  
+- **Exercise:** Develop a set of best practices for minimizing insider threats.  
+- **Reflection:** Consider how user behaviour can be shaped by awareness training.  
+
+---
+
+## Unit 3: Mental Models and Privacy by Design and by Default Principles for Usable Security Design
+
+### Module Title
+Mental Models and Privacy by Design/Default
+
+### Learning Outcomes
+- Understand the concept of mental models in usability and security.  
+- Apply privacy-by-design and privacy-by-default principles to system design.  
+- Evaluate how mental models affect user interaction with secure systems.  
+
+### Activities/Assignments
+- **Exercise:** Map user mental models for a secure login process.  
+- **Assignment:** Propose a system design applying privacy-by-design principles.  
+- **Reflection:** Discuss how mismatched mental models undermine security.  
+
+---
+
+## Unit 4: Usable Security Design by Default
+
+### Module Title
+Usable Security Design by Default
+
+### Learning Outcomes
+- Identify characteristics of usable security design.  
+- Understand trade-offs between usability and security.  
+- Recommend design improvements that balance user experience and security.  
+
+### Activities/Assignments
+- **Exercise:** Redesign a poor security interface (e.g., complex password reset).  
+- **Assignment:** Write a usability evaluation of an existing security feature.  
+- **Reflection:** Discuss how usable design increases compliance with security policies.  
+
+---
+
+## Unit 5: Achieving Optimal Cyber Security: The Ethics and Organisational Issues
+
+### Module Title
+Ethics and Organisational Issues in Cyber Security
+
+### Learning Outcomes
+- Understand the ethical issues involved in cyber security practices.  
+- Evaluate organizational culture and its impact on security.  
+- Propose ethical frameworks to guide security decision-making.  
+
+### Activities/Assignments
+- **Case Study:** Analyze an ethical dilemma in cyber security (e.g., surveillance vs. privacy).  
+- **Assignment:** Write an essay on balancing security with organizational ethics.  
+- **Reflection:** Discuss how ethical leadership shapes security culture.  
+
+---
+
+## Unit 6: Behaviour Analysis for Positive Security and Risk Communication
+
+### Module Title
+Behaviour Analysis for Positive Security and Risk Communication
+
+### Learning Outcomes
+- Apply behaviour analysis techniques to understand user actions.  
+- Design effective communication strategies to encourage secure behaviour.  
+- Evaluate the effectiveness of different communication styles in reducing risk.  
+
+### Activities/Assignments
+- **Exercise:** Draft a security awareness campaign message.  
+- **Assignment:** Propose a communication plan to improve secure behaviour in a workplace.  
+- **Reflection:** Discuss how positive reinforcement can be used in security training.  
+
+---
+
 
 ## Module 6: Research Methods and Professional Practice
 
