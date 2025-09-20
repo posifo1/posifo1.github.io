@@ -465,6 +465,125 @@ Behaviour Analysis for Positive Security and Risk Communication
 
 ---
 
+# Secure Software Development
+
+This e-portfolio documents my learning journey in **Secure Software Development**.  
+Each unit includes the module title, learning outcomes, and activities/assignments.  
+
+---
+
+## Contents
+1. [Unit 1: Introduction to Secure Software Development](#unit-1-introduction-to-secure-software-development)  
+2. [Unit 2: UML Modelling to Support Secure System Planning](#unit-2-uml-modelling-to-support-secure-system-planning)  
+3. [Unit 3: Introduction to Programming Languages](#unit-3-introduction-to-programming-languages)  
+4. [Unit 4: Introduction to Testing](#unit-4-introduction-to-testing)  
+5. [Unit 5: Future Trends in Secure Software Development](#unit-5-future-trends-in-secure-software-development)  
+6. [Unit 6: The Security of Programming Languages Debate](#unit-6-the-security-of-programming-languages-debate)  
+
+---
+
+## Unit 1: Introduction to Secure Software Development
+
+### Module Title
+Introduction to Secure Software Development
+
+### Learning Outcomes
+- Understand the importance of security throughout the software development lifecycle (SDLC).  
+- Identify common vulnerabilities and insecure coding practices.  
+- Explain the role of secure coding guidelines and best practices.  
+
+### Activities/Assignments
+- **Reflection:** Discuss why integrating security into software development is essential.  
+- **Exercise:** Identify insecure coding practices from a sample code snippet.  
+- **Assignment:** Write a short report on the OWASP Top 10 and its relevance to developers.  
+
+---
+
+## Unit 2: UML Modelling to Support Secure System Planning
+
+### Module Title
+UML Modelling to Support Secure System Planning
+
+### Learning Outcomes
+- Understand the role of UML in system planning and design.  
+- Apply UML diagrams (use case, class, sequence) to model secure systems.  
+- Incorporate security requirements into UML system models.  
+
+### Activities/Assignments
+- **Exercise:** Create a UML use case diagram for a secure authentication system.  
+- **Assignment:** Develop a sequence diagram that demonstrates secure data flow in an application.  
+- **Reflection:** Discuss the benefits and challenges of using UML for secure system planning.  
+
+---
+
+## Unit 3: Introduction to Programming Languages
+
+### Module Title
+Introduction to Programming Languages
+
+### Learning Outcomes
+- Compare programming paradigms (procedural, object-oriented, functional).  
+- Recognise how language features affect security (e.g., memory management, typing).  
+- Understand trade-offs between different programming languages in secure development.  
+
+### Activities/Assignments
+- **Exercise:** Compare the handling of input validation in Python vs. C.  
+- **Assignment:** Write a short essay on the role of strongly typed languages in reducing security vulnerabilities.  
+- **Reflection:** Discuss how programming language choice influences application security.  
+
+---
+
+## Unit 4: Introduction to Testing
+
+### Module Title
+Introduction to Testing
+
+### Learning Outcomes
+- Understand the role of testing in secure software development.  
+- Differentiate between functional testing, security testing, and penetration testing.  
+- Apply basic testing techniques to identify vulnerabilities.  
+
+### Activities/Assignments
+- **Exercise:** Write unit tests for a simple login function.  
+- **Assignment:** Conduct a basic static code analysis using an open-source tool.  
+- **Reflection:** Discuss how early testing in the SDLC reduces security risks.  
+
+---
+
+## Unit 5: Future Trends in Secure Software Development
+
+### Module Title
+Future Trends in Secure Software Development
+
+### Learning Outcomes
+- Identify emerging trends in secure software development (e.g., DevSecOps, AI-driven testing).  
+- Evaluate how automation impacts secure coding practices.  
+- Predict future challenges developers will face in secure coding.  
+
+### Activities/Assignments
+- **Research Task:** Investigate the role of AI in secure code analysis.  
+- **Assignment:** Write an essay on how DevSecOps integrates security into CI/CD pipelines.  
+- **Reflection:** Discuss whether future tools can replace secure coding awareness in developers.  
+
+---
+
+## Unit 6: The Security of Programming Languages Debate
+
+### Module Title
+The Security of Programming Languages Debate
+
+### Learning Outcomes
+- Critically evaluate whether some programming languages are inherently more secure than others.  
+- Analyse case studies of vulnerabilities tied to specific languages.  
+- Develop arguments for and against the security of popular programming languages.  
+
+### Activities/Assignments
+- **Debate Prep:** Research security issues in two different programming languages (e.g., C vs. Rust).  
+- **Assignment:** Write a position paper defending whether language choice is the most critical factor in software security.  
+- **Reflection:** Reflect on whether developer skill or language choice plays a greater role in secure coding.  
+
+---
+
 
 ## Module 6: Research Methods and Professional Practice
 
