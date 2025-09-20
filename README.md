@@ -583,6 +583,349 @@ The Security of Programming Languages Debate
 - **Reflection:** Reflect on whether developer skill or language choice plays a greater role in secure coding.  
 
 ---
+# Secure Systems Architecture
+
+This e-portfolio documents my learning journey in **Secure Systems Architecture**.  
+Each unit includes the module title, learning outcomes, and activities/assignments.  
+
+---
+
+## Contents
+1. [Unit 1: Introduction to Operating Systems and Secure Systems Architecture](#unit-1-introduction-to-operating-systems-and-secure-systems-architecture)  
+2. [Unit 2: Modelling and Socket Programming](#unit-2-modelling-and-socket-programming)  
+3. [Unit 3: Systems Engineering and Modelling](#unit-3-systems-engineering-and-modelling)  
+4. [Unit 4: Modelling of Distributed Systems](#unit-4-modelling-of-distributed-systems)  
+5. [Unit 5: Current and Future Challenges of Operating Systems and Distributed Systems](#unit-5-current-and-future-challenges-of-operating-systems-and-distributed-systems)  
+6. [Unit 6: Formal Modelling vs. Automated Testing](#unit-6-formal-modelling-vs-automated-testing)  
+
+---
+
+## Unit 1: Introduction to Operating Systems and Secure Systems Architecture
+
+### Module Title
+Introduction to Operating Systems and Secure Systems Architecture
+
+### Learning Outcomes
+- Understand the role of operating systems in secure system design.  
+- Identify key components of secure system architecture.  
+- Evaluate how OS design impacts system security.  
+
+### Activities/Assignments
+- **Reflection:** Discuss how operating system design influences application security.  
+- **Exercise:** Compare the security features of two major operating systems (e.g., Linux vs. Windows).  
+- **Assignment:** Write a short report on the principles of secure systems architecture.  
+
+---
+
+## Unit 2: Modelling and Socket Programming
+
+### Module Title
+Modelling and Socket Programming
+
+### Learning Outcomes
+- Understand the basics of system modelling in secure design.  
+- Explain the principles of socket programming for secure communication.  
+- Implement secure client-server communication using sockets.  
+
+### Activities/Assignments
+- **Exercise:** Write a simple client-server program using sockets.  
+- **Assignment:** Enhance the program by adding encryption for data in transit.  
+- **Reflection:** Discuss how modelling helps identify vulnerabilities early in system design.  
+
+---
+
+## Unit 3: Systems Engineering and Modelling
+
+### Module Title
+Systems Engineering and Modelling
+
+### Learning Outcomes
+- Understand systems engineering principles in secure architecture design.  
+- Apply modelling techniques to describe secure system interactions.  
+- Evaluate trade-offs in system design using modelling approaches.  
+
+### Activities/Assignments
+- **Exercise:** Create a system model diagram for a secure enterprise application.  
+- **Assignment:** Write a report on how systems engineering principles apply to secure software and hardware integration.  
+- **Reflection:** Reflect on how modelling supports communication between technical and non-technical stakeholders.  
+
+---
+
+## Unit 4: Modelling of Distributed Systems
+
+### Module Title
+Modelling of Distributed Systems
+
+### Learning Outcomes
+- Understand the challenges of securing distributed systems.  
+- Apply modelling techniques to distributed architectures.  
+- Evaluate risks and mitigation strategies in distributed system environments.  
+
+### Activities/Assignments
+- **Exercise:** Model a distributed system for a cloud-based service.  
+- **Assignment:** Identify potential vulnerabilities in your model and propose mitigations.  
+- **Reflection:** Discuss the role of trust boundaries in distributed system design.  
+
+---
+
+## Unit 5: Current and Future Challenges of Operating Systems and Distributed Systems
+
+### Module Title
+Current and Future Challenges of Operating Systems and Distributed Systems
+
+### Learning Outcomes
+- Identify current challenges in securing operating systems and distributed environments.  
+- Evaluate the impact of emerging technologies on secure systems architecture.  
+- Predict future challenges in OS and distributed systems security.  
+
+### Activities/Assignments
+- **Research Task:** Investigate a current challenge in distributed system security (e.g., containerization, virtualization).  
+- **Assignment:** Write an essay predicting the next major OS security challenge.  
+- **Reflection:** Discuss how system designers can prepare for rapid technological change.  
+
+---
+
+## Unit 6: Formal Modelling vs. Automated Testing
+
+### Module Title
+Formal Modelling vs. Automated Testing
+
+### Learning Outcomes
+- Understand the role of formal methods in verifying system security.  
+- Compare formal modelling and automated testing approaches.  
+- Evaluate strengths and limitations of each approach in secure system development.  
+
+### Activities/Assignments
+- **Exercise:** Apply a simple formal method to model a security requirement.  
+- **Assignment:** Write a report comparing formal modelling to automated testing in terms of cost, scalability, and accuracy.  
+- **Reflection:** Discuss scenarios where automated testing may be insufficient without formal verification.  
+
+---
+# Security and Risk Management
+
+This e-portfolio documents my learning journey in **Security and Risk Management**.  
+Each unit includes the module title, learning outcomes, and activities/assignments.  
+
+---
+
+## Contents
+1. [Unit 1: An Introduction to Security and Risk Management](#unit-1-an-introduction-to-security-and-risk-management)  
+2. [Unit 2: Users, Assessments and the Risk Management Process](#unit-2-users-assessments-and-the-risk-management-process)  
+3. [Unit 3: Introduction to Threat Modelling and Management](#unit-3-introduction-to-threat-modelling-and-management)  
+4. [Unit 4: Application of Threat Modelling and Management Techniques](#unit-4-application-of-threat-modelling-and-management-techniques)  
+5. [Unit 5: An Introduction to Security and Risk Standards in Industry and the Enterprise](#unit-5-an-introduction-to-security-and-risk-standards-in-industry-and-the-enterprise)  
+6. [Unit 6: The Practical Implications of Security and Risk Standards](#unit-6-the-practical-implications-of-security-and-risk-standards)  
+7. [Unit 7: An Introduction to the Concepts of Quantitative Risk Modelling](#unit-7-an-introduction-to-the-concepts-of-quantitative-risk-modelling)  
+8. [Unit 8: Implementing Quantitative Risk Models](#unit-8-implementing-quantitative-risk-models)  
+9. [Unit 9: Risk, Business Continuity and Disaster Recovery](#unit-9-risk-business-continuity-and-disaster-recovery)  
+10. [Unit 10: Practical Applications and Issues in DR Implementations](#unit-10-practical-applications-and-issues-in-dr-implementations)  
+11. [Unit 11: Future Trends in Security and Risk Management](#unit-11-future-trends-in-security-and-risk-management)  
+12. [Unit 12: The Great Debate](#unit-12-the-great-debate-what-will-be-the-most-influential-trend-in-srm-in-the-next-5-years)  
+
+---
+
+## Unit 1: An Introduction to Security and Risk Management
+
+### Module Title
+An Introduction to Security and Risk Management
+
+### Learning Outcomes
+- Understand the fundamental concepts of security and risk management.  
+- Explain the importance of balancing security needs with business objectives.  
+- Identify the roles and responsibilities of security professionals.  
+
+### Activities/Assignments
+- **Reflection:** Write a short piece discussing the balance between strong security measures and maintaining business agility.  
+- **Assignment:** Analyze a case study of a company’s security posture and identify strengths and weaknesses.  
+
+---
+
+## Unit 2: Users, Assessments and the Risk Management Process
+
+### Module Title
+Users, Assessments and the Risk Management Process
+
+### Learning Outcomes
+- Recognize the role of users in the security and risk management lifecycle.  
+- Understand different approaches to security assessments.  
+- Apply the steps of the risk management process to practical scenarios.  
+
+### Activities/Assignments
+- **Exercise:** Conduct a basic risk assessment for a given IT system.  
+- **Reflection:** Discuss how user behavior can either strengthen or weaken an organization’s security posture.  
+- **Assignment:** Prepare a short report on the stages of the risk management process with a real-world example.  
+
+---
+
+## Unit 3: Introduction to Threat Modelling and Management
+
+### Module Title
+Introduction to Threat Modelling and Management
+
+### Learning Outcomes
+- Understand the concept and importance of threat modelling.  
+- Identify common threat modelling methodologies (e.g., STRIDE, PASTA).  
+- Explain how threat models inform security decision-making.  
+
+### Activities/Assignments
+- **Exercise:** Apply the STRIDE framework to a sample web application.  
+- **Reflection:** Compare different threat modelling methodologies and discuss their strengths and weaknesses.  
+- **Assignment:** Create a simple threat model diagram for an online banking system.  
+
+---
+
+## Unit 4: Application of Threat Modelling and Management Techniques
+
+### Module Title
+Application of Threat Modelling and Management Techniques
+
+### Learning Outcomes
+- Apply different threat modelling techniques to real-world systems.  
+- Evaluate and prioritize threats based on risk and likelihood.  
+- Recommend appropriate mitigation strategies.  
+
+### Activities/Assignments
+- **Case Study:** Develop a threat model for a cloud-based service.  
+- **Exercise:** Rank identified threats by impact and likelihood.  
+- **Assignment:** Write a report suggesting mitigations for top-ranked threats.  
+
+---
+
+## Unit 5: An Introduction to Security and Risk Standards in Industry and the Enterprise
+
+### Module Title
+Security and Risk Standards in Industry and the Enterprise
+
+### Learning Outcomes
+- Understand the role of standards in ensuring compliance and best practice.  
+- Identify key standards (e.g., ISO 27001, NIST, PCI DSS).  
+- Explain how industry standards impact enterprise security strategy.  
+
+### Activities/Assignments
+- **Research Task:** Compare two major industry standards (e.g., ISO 27001 vs. NIST CSF).  
+- **Reflection:** Discuss how adopting a standard benefits or constrains an enterprise.  
+- **Assignment:** Create a summary table of key industry security standards.  
+
+---
+
+## Unit 6: The Practical Implications of Security and Risk Standards
+
+### Module Title
+Practical Implications of Security and Risk Standards
+
+### Learning Outcomes
+- Assess the challenges of implementing security standards in practice.  
+- Understand certification and auditing processes.  
+- Analyze case studies of compliance successes and failures.  
+
+### Activities/Assignments
+- **Case Study Review:** Explore a company fined for non-compliance.  
+- **Exercise:** Create an audit checklist for ISO 27001 compliance.  
+- **Assignment:** Discuss practical issues in aligning business processes with regulatory standards.  
+
+---
+
+## Unit 7: An Introduction to the Concepts of Quantitative Risk Modelling
+
+### Module Title
+Introduction to Quantitative Risk Modelling
+
+### Learning Outcomes
+- Understand the difference between qualitative and quantitative risk assessment.  
+- Learn basic concepts of probability and impact in risk modelling.  
+- Apply simple quantitative models to assess risk.  
+
+### Activities/Assignments
+- **Exercise:** Calculate risk values using likelihood × impact formulas.  
+- **Reflection:** Compare qualitative vs. quantitative risk models.  
+- **Assignment:** Create a simple risk matrix for a sample IT system.  
+
+---
+
+## Unit 8: Implementing Quantitative Risk Models
+
+### Module Title
+Implementing Quantitative Risk Models
+
+### Learning Outcomes
+- Implement quantitative risk assessment techniques (e.g., Monte Carlo simulations, sensitivity analysis).  
+- Interpret and communicate quantitative risk results.  
+- Evaluate the limitations of quantitative models.  
+
+### Activities/Assignments
+- **Exercise:** Build a basic risk model in Excel or Python.  
+- **Assignment:** Conduct a quantitative risk analysis on a sample case study.  
+- **Reflection:** Discuss when quantitative models are most useful.  
+
+---
+
+## Unit 9: Risk, Business Continuity and Disaster Recovery
+
+### Module Title
+Risk, Business Continuity and Disaster Recovery
+
+### Learning Outcomes
+- Understand the relationship between risk, continuity planning, and disaster recovery.  
+- Identify key elements of business continuity plans (BCP) and disaster recovery plans (DRP).  
+- Analyze how risk informs continuity strategies.  
+
+### Activities/Assignments
+- **Exercise:** Draft a BCP outline for a small business.  
+- **Case Study:** Evaluate the disaster recovery plan of a real-world incident.  
+- **Assignment:** Write a continuity strategy that aligns with risk findings.  
+
+---
+
+## Unit 10: Practical Applications and Issues in DR Implementations
+
+### Module Title
+Practical Applications and Issues in Disaster Recovery Implementations
+
+### Learning Outcomes
+- Identify common challenges in DR plan execution.  
+- Evaluate different DR strategies (e.g., hot site, cold site, cloud-based recovery).  
+- Assess post-disaster lessons learned.  
+
+### Activities/Assignments
+- **Exercise:** Compare costs and benefits of different DR solutions.  
+- **Assignment:** Analyze a failed DR implementation and propose improvements.  
+- **Reflection:** Discuss the human and organizational issues in DR planning.  
+
+---
+
+## Unit 11: Future Trends in Security and Risk Management
+
+### Module Title
+Future Trends in Security and Risk Management
+
+### Learning Outcomes
+- Identify emerging trends in SRM (e.g., AI in cybersecurity, zero trust, supply chain risks).  
+- Evaluate the impact of technological innovation on risk management practices.  
+- Predict challenges enterprises may face in the next decade.  
+
+### Activities/Assignments
+- **Research Task:** Investigate a current emerging SRM trend.  
+- **Assignment:** Write a short paper on how AI may change threat detection.  
+- **Reflection:** Discuss the risks of over-reliance on automation in security.  
+
+---
+
+## Unit 12: The Great Debate: What will be the most influential trend in SRM in the next 5 years?
+
+### Module Title
+The Great Debate: Future Influential Trends in Security and Risk Management
+
+### Learning Outcomes
+- Critically evaluate multiple perspectives on future SRM trends.  
+- Defend a position on the most influential future development.  
+- Communicate and justify arguments effectively.  
+
+### Activities/Assignments
+- **Debate Prep:** Select and research one SRM trend (e.g., quantum computing, IoT security).  
+- **Assignment:** Write an argumentative essay predicting the most influential SRM trend in the next 5 years.  
+- **Activity:** Participate in a class or written debate with peers.  
+
+---
 
 
 ## Module 6: Research Methods and Professional Practice
