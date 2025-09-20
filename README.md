@@ -4,7 +4,7 @@ This e-portfolio contains the outcomes from my learning journey throughout my MS
  
 Please view [my e-portfolio](https://posifo1.github.io/)
 
-# Launching into Cyber Security e-Portfolio
+# Launching into Cyber Security
 
 ---
 
