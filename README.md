@@ -9,18 +9,18 @@ Please view [my e-portfolio](https://posifo1.github.io/)
 ---
 
 ## Contents
-1. [Unit 1: Introduction to Cyber Security](#unit-1-introduction-to-cyber-security)  
-2. [Unit 2: Cyber Security Issues and their Implications for Businesses](#unit-2-cyber-security-issues-and-their-implications-for-businesses)  
-3. [Unit 3: Approaches to Cyber Security Design](#unit-3-approaches-to-cyber-security-design)  
-4. [Unit 4: Threat Identification and Modelling](#unit-4-threat-identification-and-modelling)  
-5. [Unit 5: An Introduction to Algorithms and Basic Programming Concepts](#unit-5-an-introduction-to-algorithms-and-basic-programming-concepts)  
-6. [Unit 6: Application of UML to Secure Software Design](#unit-6-application-of-uml-to-secure-software-design)  
-7. [Unit 7: Database Design and Implementation](#unit-7-database-design-and-implementation)  
-8. [Unit 8: Python Programming and MySQL](#unit-8-python-programming-and-mysql)  
-9. [Unit 9: OOP Application](#unit-9-oop-application)  
-10. [Unit 10: Advanced OO Techniques for Secure Systems I](#unit-10-advanced-oo-techniques-for-secure-systems-i)  
-11. [Unit 11: Advanced OO Techniques for Secure Systems II](#unit-11-advanced-oo-techniques-for-secure-systems-ii)  
-12. [Unit 12: A Look into the Future of Cyber Security](#unit-12-a-look-into-the-future-of-cyber-security)  
+[Unit 1: Introduction to Cyber Security](#unit-1-introduction-to-cyber-security)  
+[Unit 2: Cyber Security Issues and their Implications for Businesses](#unit-2-cyber-security-issues-and-their-implications-for-businesses)  
+[Unit 3: Approaches to Cyber Security Design](#unit-3-approaches-to-cyber-security-design)  
+[Unit 4: Threat Identification and Modelling](#unit-4-threat-identification-and-modelling)  
+[Unit 5: An Introduction to Algorithms and Basic Programming Concepts](#unit-5-an-introduction-to-algorithms-and-basic-programming-concepts)  
+[Unit 6: Application of UML to Secure Software Design](#unit-6-application-of-uml-to-secure-software-design)  
+[Unit 7: Database Design and Implementation](#unit-7-database-design-and-implementation)  
+[Unit 8: Python Programming and MySQL](#unit-8-python-programming-and-mysql)  
+[Unit 9: OOP Application](#unit-9-oop-application)  
+[Unit 10: Advanced OO Techniques for Secure Systems I](#unit-10-advanced-oo-techniques-for-secure-systems-i)  
+[Unit 11: Advanced OO Techniques for Secure Systems II](#unit-11-advanced-oo-techniques-for-secure-systems-ii)  
+[Unit 12: A Look into the Future of Cyber Security](#unit-12-a-look-into-the-future-of-cyber-security)  
 
 ---
 
